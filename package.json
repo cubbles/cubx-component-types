@@ -2,9 +2,8 @@
   "name": "cubx-component-types",
   "version": "1.0.0",
   "description": "Contains the typescript definitions for the CubxComponent object",
-  "main": "index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dtslint": "dtslint types/CubxComponent"
   },
   "repository": {
     "type": "git",
@@ -22,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/cubbles/cubx-component-types/issues"
   },
-  "homepage": "https://github.com/cubbles/cubx-component-types#readme"
+  "homepage": "https://github.com/cubbles/cubx-component-types#readme",
+  "devDependencies": {
+    "dtslint": "^0.7.1"
+  }
 }
