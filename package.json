@@ -1,0 +1,26 @@
+{
+  "name": "cubx-component-types",
+  "version": "1.0.0",
+  "description": "Contains the typescript definitions for the CubxComponent object",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cubbles/cubx-component-types.git"
+  },
+  "keywords": [
+    "Cubbles",
+    "CubxComponent",
+    "Typescript",
+    "Types",
+    "Typyings"
+  ],
+  "author": "Edwin Gamboa <edwingamboa355@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cubbles/cubx-component-types/issues"
+  },
+  "homepage": "https://github.com/cubbles/cubx-component-types#readme"
+}
