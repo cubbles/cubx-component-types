@@ -1,5 +1,5 @@
 {
-  "name": "cubx-component-types",
+  "name": "@cubbles/cubx-component-types",
   "version": "1.0.0",
   "description": "Contains the typescript definitions for the CubxComponent object",
   "scripts": {
