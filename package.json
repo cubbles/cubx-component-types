@@ -1,6 +1,6 @@
 {
   "name": "@cubbles/cubx-component-types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Contains the typescript definitions for the CubxComponent object",
   "scripts": {
     "dtslint": "dtslint types/CubxComponent"
