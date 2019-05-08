@@ -24,5 +24,6 @@
   "homepage": "https://github.com/cubbles/cubx-component-types#readme",
   "devDependencies": {
     "dtslint": "^0.7.1"
-  }
+  },
+  "types": "types/CubxComponent/index.d.ts"
 }
