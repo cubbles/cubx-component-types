@@ -25,5 +25,6 @@
   "devDependencies": {
     "dtslint": "^0.7.1"
   },
-  "types": "types/CubxComponent/index.d.ts"
+  "types": "types/CubxComponent/index.d.ts",
+  "main": "index.js"
 }
